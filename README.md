@@ -13,7 +13,7 @@ Installation du projet suivateliers
 ```
     
 ## 🛠 Langages
-Javascript, HTML, CSS et PHP
+HTML, CSS et PHP
 
 
 
